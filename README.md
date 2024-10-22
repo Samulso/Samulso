@@ -1,6 +1,6 @@
 # Ola!! Eu me chamo Samuel
 - 👨🏿‍🏫 Atualmente sou estudante tecnico em desenvolvimento de sistemas no Senac.
-- 🧑🏿‍💻 Trabalho com C e Pytho.
+- 🧑🏿‍💻 Trabalho com C e Python.
 - 📽️ Procuro especializar-me no ramo de segurança cibernética e desenvolvimento de sistemas.
 
  <div style="display: inline_block">
