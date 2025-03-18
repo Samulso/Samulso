@@ -1,4 +1,4 @@
-q### Minhas Estatísticas de Contribuição
+
 
 ![Gráfico de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=Samulso&theme=dracula)
 
